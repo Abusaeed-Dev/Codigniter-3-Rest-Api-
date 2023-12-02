@@ -1,0 +1,8 @@
+rest.php Inside Config Folder
+
+Fomrat.php & REST_Controller.php Both In Libraries
+
+Project_loaction\application\libraries\Fomrat.php & REST_Controller.php
+
+
+Create Folder in Controller Folder Api inside The Folder Create File item.php
