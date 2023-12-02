@@ -1,8 +1,15 @@
-rest.php Inside Config Folder
+rest.php File Loaction ??
 
-Fomrat.php & REST_Controller.php Both In Libraries
+rest.php Paste Inside Application/Config/ 
 
-Project_loaction\application\libraries\Fomrat.php & REST_Controller.php
+Fomrat.php & REST_Controller.php File Loaction ??
 
+Paste Both Files Inside Application/libraries/
 
-Create Folder in Controller Folder Api inside The Folder Create File item.php
+Item.php File Loaction ??
+
+Create Folder in Controllers Folder <FolderName> Api inside The Api <Folder> Paste Item.php And Set The Controllers For Own Requirments
+
+rest_controller_lang.php File Loaction ??
+
+Paste Language File inside Application/language/english/rest_controller_lang.php
